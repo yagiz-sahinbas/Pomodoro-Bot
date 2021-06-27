@@ -55,21 +55,21 @@ Bir pomodoro çalışması başlatırsınız. Süre en fazla `120` & tekrar say�
 ![Pomodorocommand](https://cdn.discordapp.com/attachments/828663577992888353/858750159415148554/unknown.png)
 
 
-## !puan (ID | Etiket)
+## !puan (ID | Etiket) 🏅
 
 Kendinizin veya başka bir kişinin toplamda ne kadar süre çalıştığını öğrenirsiniz.
 
 ![Pomodorocommand](https://cdn.discordapp.com/attachments/828663577992888353/858750304363479060/unknown.png)
  
  
-## !müzikseç [1-7]
+## !müzikseç [1-7] 🎵
 
 Pomodoro esnasında bir seste bulunuyorsanız bot sese girerek çalışma ya da mola süresinin bittiğini size hatırlatmak için zil çalmaktadır. Bu komut ile çalacak olan zil sesini 1'den 7'ye kadar herhangi birini seçerek belirleyebilirsiniz.
 
 ![Pomodorocommand](https://cdn.discordapp.com/attachments/828663577992888353/858750734106755072/unknown.png)
 
 
-## !müziktest [1-7]
+## !müziktest [1-7] 🎶
 
 Elimizde olan bildirim seslerini test edebilmenize yardımcı olurlar 1 ile 7 arasındaki (Bu sayılar dahil) istediğiniz sayıyı yazarak deneyebilirsiniz
 
